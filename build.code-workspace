@@ -1,0 +1,99 @@
+{
+	"folders": [
+		{
+			"path": "../../build"
+		},
+		{
+			"path": "../../devel"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"python.autoComplete.extraPaths": [
+			"/home/sunmc/Documents/cppworkplace/catkin_fastlio/devel/lib/python3/dist-packages",
+			"/home/sunmc/Documents/cppworkplace/livox_ros_driver-master/devel/lib/python3/dist-packages",
+			"/home/sunmc/Documents/cppworkplace/legion-framework-v6.0.1/legion-framework/modules/message/ros/devel/lib/python3/dist-packages",
+			"/opt/ros/noetic/lib/python3/dist-packages"
+		],
+		"python.analysis.extraPaths": [
+			"/home/sunmc/Documents/cppworkplace/catkin_fastlio/devel/lib/python3/dist-packages",
+			"/home/sunmc/Documents/cppworkplace/livox_ros_driver-master/devel/lib/python3/dist-packages",
+			"/home/sunmc/Documents/cppworkplace/legion-framework-v6.0.1/legion-framework/modules/message/ros/devel/lib/python3/dist-packages",
+			"/opt/ros/noetic/lib/python3/dist-packages"
+		],
+		"files.associations": {
+			"condition_variable": "cpp",
+			"ostream": "cpp",
+			"cctype": "cpp",
+			"clocale": "cpp",
+			"cmath": "cpp",
+			"csignal": "cpp",
+			"cstdarg": "cpp",
+			"cstddef": "cpp",
+			"cstdio": "cpp",
+			"cstdlib": "cpp",
+			"cstring": "cpp",
+			"ctime": "cpp",
+			"cwchar": "cpp",
+			"cwctype": "cpp",
+			"any": "cpp",
+			"array": "cpp",
+			"atomic": "cpp",
+			"strstream": "cpp",
+			"*.tcc": "cpp",
+			"bitset": "cpp",
+			"cfenv": "cpp",
+			"chrono": "cpp",
+			"cinttypes": "cpp",
+			"complex": "cpp",
+			"cstdint": "cpp",
+			"deque": "cpp",
+			"forward_list": "cpp",
+			"list": "cpp",
+			"unordered_map": "cpp",
+			"unordered_set": "cpp",
+			"vector": "cpp",
+			"exception": "cpp",
+			"algorithm": "cpp",
+			"functional": "cpp",
+			"iterator": "cpp",
+			"map": "cpp",
+			"memory": "cpp",
+			"memory_resource": "cpp",
+			"numeric": "cpp",
+			"optional": "cpp",
+			"random": "cpp",
+			"ratio": "cpp",
+			"set": "cpp",
+			"source_location": "cpp",
+			"string": "cpp",
+			"string_view": "cpp",
+			"system_error": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"utility": "cpp",
+			"hash_map": "cpp",
+			"hash_set": "cpp",
+			"fstream": "cpp",
+			"initializer_list": "cpp",
+			"iomanip": "cpp",
+			"iosfwd": "cpp",
+			"iostream": "cpp",
+			"istream": "cpp",
+			"limits": "cpp",
+			"mutex": "cpp",
+			"new": "cpp",
+			"shared_mutex": "cpp",
+			"sstream": "cpp",
+			"stdexcept": "cpp",
+			"streambuf": "cpp",
+			"thread": "cpp",
+			"typeindex": "cpp",
+			"typeinfo": "cpp",
+			"variant": "cpp",
+			"bit": "cpp"
+		}
+	}
+}
